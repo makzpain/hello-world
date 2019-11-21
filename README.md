@@ -1,3 +1,2 @@
 # hello-world
-Hi
-Эти изменения будут внесены только в файл README в вашей 
+print look
